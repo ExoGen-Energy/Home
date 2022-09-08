@@ -1,2 +1,0 @@
-# HomePage
-ExoGen homepage code
